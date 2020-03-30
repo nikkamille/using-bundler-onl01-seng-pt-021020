@@ -11,5 +11,8 @@ gem "hashie"
 
 
 group :development do
-gem "sinatra"
+gem "sinatra", "1.4.4"
 end
+
+group :development do
+gem "octokit", 
