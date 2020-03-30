@@ -8,4 +8,8 @@ end
 
 group :development do
 gem "hashie"
+
+
+group :development do
+gem "hashie"
 end
