@@ -11,5 +11,5 @@ gem "hashie"
 
 
 group :development do
-gem "hashie"
+gem "sinatra"
 end
